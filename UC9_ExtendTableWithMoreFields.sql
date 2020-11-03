@@ -1,6 +1,4 @@
-sloc)  97 Bytes
-RawBlame
-    
+
 Alter table employee_payroll add
 Deduction float,
 Taxable_pay real,
